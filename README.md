@@ -55,3 +55,6 @@ Then our output would be:
 2016-12-20T19:04:50Z, Server B terminated.
 ```
 
+## Usage
+
+Use IntelliJ to run the project. Edit IOUtils.kt logRoot hardcoded value to setup the folder where to read the logs.
